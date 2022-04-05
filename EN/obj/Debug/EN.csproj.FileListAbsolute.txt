@@ -1,0 +1,6 @@
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\EN\bin\Debug\EN.dll
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\EN\bin\Debug\EN.pdb
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\EN\obj\Debug\EN.dll
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\EN\obj\Debug\EN.pdb
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\EN\obj\Debug\EN.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\bin\Debug\DAL.dll
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\bin\Debug\DAL.pdb
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\bin\Debug\EN.dll
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\bin\Debug\EN.pdb
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\obj\Debug\DAL.dll
+C:\Users\PC\Downloads\PreguntasRespuetas-master\PreguntasRespuetas-master\DAL\obj\Debug\DAL.pdb
